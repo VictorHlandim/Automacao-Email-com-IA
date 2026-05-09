@@ -7,6 +7,7 @@ Características:
 - Reconhecimento de nomes em endereços de email
 - Processamento de comandos do usuário em português
 - Resposta estruturada em JSON para diferentes ferramentas
+- Pode mandar multiplos emails em um processo singular
 
 Como usar:
 1. Configure as credenciais SMTP
