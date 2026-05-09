@@ -5,6 +5,7 @@ using System.Text.Json;
 
 EnviadorDeEmail Send = new EnviadorDeEmail("PORTA SMTP", "USUARIO", "SENHA");
 
+Console.Clear();
 Console.WriteLine("Digite sua ação para o agente:\n");
 string userInput = Console.ReadLine() ?? "";
 
